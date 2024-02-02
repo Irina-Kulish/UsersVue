@@ -15,9 +15,9 @@ UsersVue
 
 3. **Run the Project:**
    ```bash
-npm run serve
+   npm run serve
 
 
 4. **Open in Your Browser:**
    ```bash
-Navigate to http://localhost:8080 in your web browser.
+   Navigate to http://localhost:8080 in your web browser.
