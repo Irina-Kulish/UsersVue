@@ -5,7 +5,7 @@ UsersVue
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Irina-Kulish/UsersVue
+   git clone https://github.com/Irina-Kulish/UsersVue.git
 
 
 2. **Install Dependencies:**
