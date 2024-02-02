@@ -1,24 +1,20 @@
-# hello-world
+# Project Title
+UsersVue
 
-## Project setup
-```
-npm install
-```
+## How to Run the Project Locally
 
-### Compiles and hot-reloads for development
-```
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Irina-Kulish/UsersVue
+
+
+2. **Install Dependencies:**
+   npm install
+
+
+3. **Run the Project:**
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. **Open in Your Browser:**
+Navigate to http://localhost:8080 in your web browser.
