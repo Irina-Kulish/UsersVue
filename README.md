@@ -9,12 +9,15 @@ UsersVue
 
 
 2. **Install Dependencies:**
+   ```bash
    npm install
 
 
 3. **Run the Project:**
+   ```bash
 npm run serve
 
 
 4. **Open in Your Browser:**
+   ```bash
 Navigate to http://localhost:8080 in your web browser.
